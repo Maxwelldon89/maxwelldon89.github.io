@@ -1,6 +1,7 @@
 layout: page
 title: "About me"
 permalink: /about
+
 Just me being me and developing skills along the way of figuring things out.
 Generally laid-back & friendly. Gamer at heart. 🎮 🇫🇮
 Coffee Bean 100. 💚

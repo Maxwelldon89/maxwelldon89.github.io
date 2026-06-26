@@ -1,10 +1,10 @@
 layout: page
 title: "System & Gear"
-permalink: /gear
+permalink: /gear/
 
-## -- The PC -- <br/>
-- OS: CachyOS <br/>
-- Motherboard: Asus ROG STRIX X470-F GAMING, ATX <br/>
+## -- The PC --
+- OS: CachyOS
+- Motherboard: Asus ROG STRIX X470-F GAMING, ATX
 - CPU. AMD Ryzen 7 5700X3D, AM4, 3.0 GHz, 8-Core
 - GPU 1: Sapphire RX 9070 PULSE 16GB
 - GPU 2: Sapphire RX 7700XT PULSE 12GB

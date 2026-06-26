@@ -7,7 +7,7 @@ Generally laid-back & friendly. Gamer at heart. 🎮 🇫🇮 <br />
 Coffee Bean 100. 💚 <br />
 Ps. Arch Linux User 🐧 <br />
 <br />
-## Social Media
+# Social Media
 - BlueSky [https://maxwelldon.bsky.social/](https://maxwelldon.bsky.social/)
 - Instagram [https://www.instagram.com/maxwelldon89](https://www.instagram.com/maxwelldon89)
 - Tiktok [https://www.tiktok.com/@maxwelldon](https://www.tiktok.com/@maxwelldon)

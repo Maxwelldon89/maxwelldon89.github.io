@@ -13,7 +13,7 @@ permalink: /gear/
 - Storage: 250GB & 1TB NVME + 2x500GB SSD + External HDD's
 - Case: Fractal Design Meshify C White - TG
 - CPU AIO: Corsair Hydro H115i RGB Platinum
-
+<br /><br />
 ## -- Gear --
 - Displays: Samsung 27", 144Hz 1440p
 - Keyboard: Corsair K63 RED

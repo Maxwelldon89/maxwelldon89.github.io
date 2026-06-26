@@ -1,7 +1,9 @@
 layout: page
 title: "About me"
 permalink: /about/
-<br /><br />
+<br />
+# Links | [Home](https://maxwelldon89.github.io/) | [About](https://maxwelldon89.github.io/about) |[Gear](https://maxwelldon89.github.io/gear)
+<br />
 Hey! I'm Jon / Maxwell(don)(89)!
 Just me being me here and developing skills along the way of figuring things out. <br />
 Generally laid-back & friendly. Gamer at heart. 🎮 🇫🇮 <br />

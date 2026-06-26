@@ -2,7 +2,7 @@ layout: page
 title: "System & Gear"
 permalink: /gear/
 
-## -- The PC --
+# -- The PC --
 - OS: CachyOS
 - Motherboard: Asus ROG STRIX X470-F GAMING, ATX
 - CPU. AMD Ryzen 7 5700X3D, AM4, 3.0 GHz, 8-Core
@@ -13,8 +13,8 @@ permalink: /gear/
 - Storage: 250GB & 1TB NVME + 2x500GB SSD + External HDD's
 - Case: Fractal Design Meshify C White - TG
 - CPU AIO: Corsair Hydro H115i RGB Platinum
-<br /><br />
-## -- Gear --
+
+# -- Gear --
 - Displays: Samsung 27", 144Hz 1440p
 - Keyboard: Corsair K63 RED
 - Mouse: Logitech G305

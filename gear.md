@@ -1,7 +1,9 @@
 layout: page
 title: "System & Gear"
 permalink: /gear/
-
+<br />
+# Links | [Home](https://maxwelldon89.github.io/) | [About](https://maxwelldon89.github.io/about) |[Gear](https://maxwelldon89.github.io/gear)
+<br />
 # -- The PC --
 - OS: CachyOS
 - Motherboard: Asus ROG STRIX X470-F GAMING, ATX

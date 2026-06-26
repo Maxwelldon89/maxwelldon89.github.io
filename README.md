@@ -1,2 +1,2 @@
 # maxwelldon89.github.io
-Personal Github homepage for Maxwelldon, to be multipurpose and to develop own skills along the journey.
+Personal Github homepage project for Maxwelldon / Jon Hyvönen, to be for multi-purpose and to develop my own skills along the journey.
